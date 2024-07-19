@@ -4,6 +4,7 @@ Once you have added your extras to both, make it a Cargo.toml load then.
 Please know this tool is only as good as your knowledge if you think this is a good fit give it to your red/blue/purple team engineer to sort out.
 
 #!bash
+
 cargo run --bin CyberWarrior.rs
 
 Instructions for use.
