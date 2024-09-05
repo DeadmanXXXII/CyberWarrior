@@ -3,9 +3,10 @@
 Once you have added your extras to both, make it a Cargo.toml load then.
 Please know this tool is only as good as your knowledge if you think this is a good fit give it to your red/blue/purple team engineer to sort out.
 
-#!bash
+```bash
 
 cargo run --bin CyberWarrior.rs
+```
 
 Instructions for use.
 Make sure you have all the necessities required like rustup, attack vectors, file paths, IPs and various different inputs and files that need configured to design your cyber warriors arsenal first then assemble in this order for use.
